@@ -4,9 +4,18 @@
 
 ## Installation
 
+1.Install the correct versions of each package, which are listed by the command:
+
 ```console
-npm install eslint-config-sensetime --save-dev
-npm install-peerdeps --dev eslint-config-sensetime
+
+npm info "eslint-config-sensetime@latest" peerDependencies
+```
+
+If using npm 5+, use this shortcut
+
+```console
+
+npx install-peerdeps --dev eslint-config-sensetime
 ```
 
 ## Usage

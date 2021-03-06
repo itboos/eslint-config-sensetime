@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sensetime",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "shared eslint config based in recommended in sensetime dcp",
   "main": "index.js",
   "scripts": {
