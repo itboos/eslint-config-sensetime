@@ -1,6 +1,6 @@
 # eslint-config-sensetime
 
-> Sensetime Dep shareable config for stylelint.
+> Sensetime DCP shared config for eslint.
 
 ## Installation
 
