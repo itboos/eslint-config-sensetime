@@ -1,0 +1,13 @@
+{
+  "其它配置": "....",
+  "代码格式化相关配置 注意：要先安装相关 插件，才能使配置生效 ": "....",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.validate": ["javascript", "jsx", "ts"]
+}

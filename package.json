@@ -1,0 +1,28 @@
+{
+  "name": "style-config-sensetime",
+  "version": "1.0.0",
+  "description": "style config based in recommended in sensetime dcp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zack-zhong",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^13.11.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
+  },
+  "homepage": "",
+  "peerDependencies": {
+    "stylelint": "^13.11.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

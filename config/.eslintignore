@@ -1,0 +1,6 @@
+# /node_modules/* and /bower_components/* ignored by default
+
+build/*
+dist/*
+weapp/*
+!build/index.js # include build/index.js 文件
