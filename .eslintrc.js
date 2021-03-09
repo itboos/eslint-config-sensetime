@@ -72,7 +72,7 @@ module.exports = {
       },
     ], // 不允许分号
     eqeqeq: ["error", "always", { null: "ignore" }], // 全等
-    "no-console": 2, // 可以使用 console TODO 测试使用
+    "no-console": 0, // 可以使用 console
     "no-use-before-define": 0,
     "no-unused-vars": [
       0,
