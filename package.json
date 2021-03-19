@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sensetime",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "shared eslint config based in recommended in sensetime dcp",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-webpack-plugin": "^2.5.2",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "prettier-config-sensetime": "^1.0.0"
   },
   "homepage": "",
   "peerDependencies": {
